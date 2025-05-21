@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Post - Lil Wayne</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <a href="index.html">← Voltar</a>
+  <h1>Lil Wayne e a Crise de Estilo</h1>
+  <img src="https://i.pinimg.com/originals/df/d5/e8/dfd5e8f6590534e3cb7265ea99c992b6.jpg" alt="Lil Wayne usando BAPE" style="width:100%; max-width:600px;">
+  <p>Nos anos 2000, Lil Wayne ditava estética com BAPE, correntes e atitude. Enquanto isso, o Brasil engatinha numa identidade visual forte. Estamos perdidos ou só em formação?</p>
+</body>
+</html>
