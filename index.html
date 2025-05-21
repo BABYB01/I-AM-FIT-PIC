@@ -1,41 +1,41 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-    <title>I AM FIT PIC</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog | I AM FIT PIC</title>
     <link href="https://fonts.googleapis.com/css2?family=Unbounded:wght@300;500;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="style.css"/>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"/>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <header>
-        <h1>I AM FIT PIC</h1>
+        <h1><a href="index.html" style="text-decoration: none; color: white;">I AM FIT PIC</a></h1>
     </header>
 
     <nav>
-        <a href="#sobre">Sobre</a>
-        <a href="#editorial">Editorial</a>
-        <a href="post-lil-wayne.html">Post: Lil Wayne</a>
-        <a href="#contato">Contato</a>
+        <a href="index.html#sobre">Sobre</a>
+        <a href="index.html#editorial">Editorial</a>
+        <a href="blog.html">Blog</a>
+        <a href="index.html#contato">Contato</a>
     </nav>
 
-    <section id="sobre" class="section">
-        <h2>SOBRE</h2>
-        <p>Mais que uma marca. Um manifesto. I AM FIT PIC é a interseção entre moda, arte e identidade. Inspirado por estéticas como Rick Owens, Balenciaga e o caos refinado da moda underground, entregamos peças com peso, presença e propósito.</p>
-    </section>
+    <section class="section">
+        <h2>BLOG</h2>
+        <div class="post-cards">
+            <a href="posts/post-lil-wayne.html" class="post-card">
+                <img src="https://i.pinimg.com/originals/df/d5/e8/dfd5e8f6590534e3cb7265ea99c992b6.jpg" alt="Lil Wayne usando BAPE">
+                <div class="post-info">
+                    <h3>Lil Wayne e a Crise de Estilo no Brasil</h3>
+                    <p>Um olhar sobre os anos 2000 e o caos estético nacional.</p>
+                </div>
+            </a>
 
-    <section id="editorial" class="section">
-        <h2>EDITORIAL</h2>
-        <p>Olhares urbanos. Poses duras. Texturas pesadas. Explore o universo visual da I AM FIT PIC em campanhas que desafiam o padrão.</p>
-    </section>
-
-    <section id="contato" class="section">
-        <h2>CONTATO</h2>
-        <div class="social-links">
-            <a href="https://www.instagram.com/babyboiy_00" target="_blank" class="social-link">
-                <i class="fab fa-instagram"></i>
-                <span>@babyboiy_00</span>
+            <a href="posts/post-outro.html" class="post-card">
+                <img src="https://via.placeholder.com/600x400/111111/ffffff?text=POST+2" alt="Post exemplo">
+                <div class="post-info">
+                    <h3>Exemplo de outro post</h3>
+                    <p>Você pode adicionar quantos quiser.</p>
+                </div>
             </a>
         </div>
     </section>
