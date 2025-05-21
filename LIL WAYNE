@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Post: Lil Wayne</title>
+    <link href="https://fonts.googleapis.com/css2?family=Unbounded:wght@300;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+    <header>
+        <h1><a href="index.html" style="text-decoration: none; color: white;">I AM FIT PIC</a></h1>
+    </header>
+
+    <nav>
+        <a href="index.html#sobre">Sobre</a>
+        <a href="index.html#editorial">Editorial</a>
+        <a href="post-lil-wayne.html">Post: Lil Wayne</a>
+        <a href="index.html#contato">Contato</a>
+    </nav>
+
+    <section class="section">
+        <h2>LIL WAYNE & A MODA BRASILEIRA</h2>
+
+        <article class="post">
+            <h3>LIL WAYNE: O CAOS CONTROLADO DOS ANOS 2000</h3>
+            <p>
+                Nos anos 2000, Lil Wayne não era só um dos maiores nomes do rap — ele era o manual ambulante de estilo da cultura hip-hop.
+                Com seus grills, dreads longos, camisetas oversized e jeans baixos, ele traduzia a irreverência de uma geração que não pedia permissão pra se vestir.
+            </p>
+            <p>
+                Ele não seguia tendência. Ele era a tendência. Wayne foi BAPE, foi bling, foi skate, foi autoexpressão pura antes disso virar buzzword.
+            </p>
+            <img src="https://i.pinimg.com/originals/df/d5/e8/dfd5e8f6590534e3cb7265ea99c992b6.jpg" alt="Lil Wayne usando BAPE nos anos 2000" style="width:100%; max-width:600px; margin: 20px 0;">
+
+            <h3>CRISE DE ESTILO: BRASIL ENTRE O HYPE E A IDENTIDADE</h3>
+            <p>
+                O cenário fashion brasileiro vive uma dualidade estética. De um lado, o <strong>brazilcore</strong> exporta a quebrada como tendência global — camisa da seleção, bermuda da Nike e corrente de prata nas passarelas da Europa.
+            </p>
+            <p>
+                Do outro, o <strong>recessioncore</strong> tenta impor um minimalismo bege e silencioso como se fosse resposta à crise.
+                Mas no meio disso tudo, a pergunta persiste: quem está realmente criando estilo no Brasil?
+            </p>
+            <p>
+                A resposta talvez esteja longe dos holofotes. No moleque que usa bootleg com confiança. Na mina que mistura o short do colégio com uma bolsa falsa da Cavalli.
+                Isso sim é Brasil. Isso sim é moda.
+            </p>
+        </article>
+    </section>
+</body>
+</html>
